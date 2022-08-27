@@ -1,6 +1,6 @@
-<img href="https://raw.githubusercontent.com/ralphrimwell/ralphrimwell/blob/output/snake.svg" alt="Snake animation" />
 
-###
+<img href="https://raw.githubusercontent.com/ralphrimwell/ralphrimwell/e709c2c38b70ac9cebac5aff1f78c15f6c791298/snake.svg" alt="snake" />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=ralphrimwell" height="150" alt="stats graph"  />
