@@ -28,13 +28,3 @@
 
 ###
 
-<h1 align="left">About me</h1>
-
-###
-
-<p align="left">I'm a freelance developer, interested in  cybersecurity and advanced programming. I enjoy designing, creating and understanding large complex systems. I am currently expanding my knowledge of Rust to allow me to access low level OS apis and take advantage of its speed and efficiency.</p>
-
-###
-
-
-###
